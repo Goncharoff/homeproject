@@ -1,0 +1,2 @@
+
+Card with id 4 was passed in timestamp = 1560866259639
